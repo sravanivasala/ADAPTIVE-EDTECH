@@ -1,0 +1,11 @@
+ Step-by-Step Guide to using the Stremlit App
+ First, make sure:
+ you've run:
+uvicorn backend.main:app --reload (in backend/) #to execute code type this in main.py 
+ streamlit run app.py (in frontend/)#to execute code type this in app.py #*****before type that type cd frontend
+
+
+ 1.Dashboard
+ purpose: View learner profile information
+
+ Input
